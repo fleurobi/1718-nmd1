@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color: lightcoral;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+div{
+    background-color: rgba(225, 225, 225, 0.5)
+}
